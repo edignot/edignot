@@ -7,12 +7,35 @@ Find me on LinkedIn: [edignot](https://www.linkedin.com/in/edignot/)
 Email me: edignot@gmail.com
 
 Street Art Walk 
+<br/>
 [CODE](https://github.com/StreetArtMap/streetArtMap)
-[DEPLOYED](https://streetartwalk.netlify.app/) LOGIN: username: username, password: password
+<br/>
+[DEPLOYED](https://streetartwalk.netlify.app/) 
+<br/>
+LOGIN: username: username, password: password
+<br/>
 ![Street Art Walk](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600219353/streetartwalk1_u8uzdd.jpg)
 
-![National Parks Bucket List](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600220750/Screen_Shot_2020-09-15_at_19.45.09_hvsix0.png)
+National Parks Bucket List
+<br/>
+[CODE](https://github.com/edignot/national-parks-bucket-list)
+<br/>
+[DEPLOYED](https://nationalparksbucketlist.netlify.app/) 
+<br/>
+LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
+<br/>
+![National Parks Bucket List](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600220750/Screen_Shot_2020-09-15_at_19.45.09_hvsix0.jpg)
 
+Overlook Hotel
+<br/>
+[CODE](https://github.com/edignot/HotelManagementApp)
+<br/>
+[DEPLOYED](https://edignot.github.io/HotelManagementApp/) 
+<br/>
+USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020 
+<br/>
+MANAGER LOGIN: username: manager, password: overlook2020
+<br/>
 ![Overlook Hotel](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600220768/overlook_uoqnus.png)
 
 
