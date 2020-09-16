@@ -5,7 +5,11 @@ Portfolio: [edignot.com](https://edignot.com)
 Find me on LinkedIn: [edignot](https://www.linkedin.com/in/edignot/)
 <br/>
 Email me: edignot@gmail.com
-
+<br/>
+<br/>
+PROJECTS:
+<br/>
+<br/>
 Street Art Walk 
 <br/>
 [CODE](https://github.com/StreetArtMap/streetArtMap)
