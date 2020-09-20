@@ -48,7 +48,7 @@ USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020
 <br/>
 MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
-![Overlook Hotel](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600220768/overlook_uoqnus.png)
+![Overlook Hotel](https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg)
 
 
 
