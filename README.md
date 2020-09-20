@@ -36,7 +36,7 @@ National Parks Bucket List
 <br/>
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
-![National Parks Bucket List](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600220750/Screen_Shot_2020-09-15_at_19.45.09_hvsix0.jpg)
+![National Parks Bucket List](https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg)
 
 Overlook Hotel
 <br/>
