@@ -20,6 +20,14 @@ LOGIN: username: username, password: password
 <br/>
 ![Street Art Walk](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600219353/streetartwalk1_u8uzdd.jpg)
 
+Portfolio
+<br/>
+[CODE](https://github.com/edignot/edignotportfolio)
+<br/>
+[DEPLOYED](https://edignot.com) 
+<br/>
+![Edita Ignot Portfolio](https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg)
+
 National Parks Bucket List
 <br/>
 [CODE](https://github.com/edignot/national-parks-bucket-list)
