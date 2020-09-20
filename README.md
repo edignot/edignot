@@ -50,6 +50,13 @@ MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
 ![Overlook Hotel](https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg)
 
-
+Nature Office
+<br/>
+[CODE](https://github.com/edignot/nature-office)
+<br/>
+[DEPLOYED](https://nature-office.herokuapp.com/) 
+<br/>
+LOGIN: any name, any email, valid US zipcode
+![Nature Office](https://github.com/edignot/nature-office/blob/master/natureofficemockup.jpg)
 
 
