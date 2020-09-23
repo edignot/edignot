@@ -8,9 +8,7 @@ Find me on LinkedIn [edignot](https://www.linkedin.com/in/edignot/)
 <br/>
 Email me edignot@gmail.com
 <br/>
-
 ---
-
 <br/>
 PORTFOLIO PROJECTS
 <br/>
