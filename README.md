@@ -9,7 +9,7 @@ Find me on LinkedIn: [edignot](https://www.linkedin.com/in/edignot/)
 Email me: edignot@gmail.com
 <br/>
 <br/>
-PROJECTS:
+PORTFOLIO PROJECTS:
 <br/>
 <br/>
 Street Art Walk 
