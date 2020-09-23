@@ -2,7 +2,7 @@ Hi, I'm Edita. I'm a Software Engineer · Frontend Engineer · looking for work 
 <br/>
 I'm a recent [Turing software and design school](https://turing.io/) alumni  
 <br/>
-Portfolio: [edignot.com](https://edignot.com)
+My portfolio: [edignot.com](https://edignot.com)
 <br/>
 Find me on LinkedIn: [edignot](https://www.linkedin.com/in/edignot/)
 <br/>
