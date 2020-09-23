@@ -96,6 +96,14 @@ Check Yo Self
 <br/>
 ![Check Yo Self](https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg)
 
+Flash Cards
+<br/>
+[CODE](https://github.com/edignot/FlashCardsGame)
+<br/>
+[DEPLOYED](https://beyonceflashcardsgame.netlify.app/) 
+<br/>
+![Flash Cards Beyounce](https://github.com/edignot/FlashCardsGame/raw/master/flashcardgame.jpg)
+
 Photography Portfolio
 <br/>
 [CODE](https://github.com/edignot/My-photography-portfolio-mod-0)
