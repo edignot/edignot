@@ -8,8 +8,8 @@ Find me on LinkedIn [edignot](https://www.linkedin.com/in/edignot/)
 <br/>
 Email me edignot@gmail.com
 <br/>
-
 <br/>
+
 PORTFOLIO PROJECTS
 <br/>
 <br/>
@@ -21,7 +21,7 @@ Street Art Walk
 <br/>
 LOGIN: username: username, password: password
 <br/>
-![Street Art Walk](https://camo.githubusercontent.com/fe6359f68df6e598fb73e942443e736c40f2e4ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64733664786776786f2f696d6167652f75706c6f61642f76313630303231393332382f73747265657461727477616c6b325f70616a66377a2e6a7067)
+![Edita Ignot Portfolio](https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg)
 
 Portfolio
 <br/>
