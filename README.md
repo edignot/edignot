@@ -24,7 +24,6 @@ LOGIN: username: username, password: password
 <br/>
 ![Street Art Walk](https://res.cloudinary.com/ds6dxgvxo/image/upload/v1600219353/streetartwalk1_u8uzdd.jpg)
 
----
 Portfolio
 <br/>
 [CODE](https://github.com/edignot/edignotportfolio)
