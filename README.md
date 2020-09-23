@@ -12,8 +12,6 @@ Email me edignot@gmail.com
 
 ---
 #### PORTFOLIO PROJECTS
-<br/>
-<br/>
 
 Street Art Walk 
 <br/>
