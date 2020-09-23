@@ -8,6 +8,9 @@ Find me on LinkedIn [edignot](https://www.linkedin.com/in/edignot/)
 <br/>
 Email me edignot@gmail.com
 <br/>
+
+---
+
 <br/>
 PORTFOLIO PROJECTS
 <br/>
@@ -51,6 +54,8 @@ USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020
 MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
 ![Overlook Hotel](https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg)
+
+---
 
 OTHER PROJECTS ( [Turing software and design school](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. )
 
