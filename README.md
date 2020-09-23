@@ -11,7 +11,6 @@ Email me edignot@gmail.com
 <br/>
 
 ---
-
 #### PORTFOLIO PROJECTS
 <br/>
 <br/>
