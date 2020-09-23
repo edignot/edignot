@@ -10,6 +10,8 @@ Email me edignot@gmail.com
 <br/>
 <br/>
 
+---
+
 #### PORTFOLIO PROJECTS
 <br/>
 <br/>
@@ -56,7 +58,7 @@ MANAGER LOGIN: username: manager, password: overlook2020
 ---
 
 #### OTHER PROJECTS 
-[Turing software and design school](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time, listed by date
+[Turing software and design school](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time.
 
 Nature Office
 <br/>
@@ -66,6 +68,32 @@ Nature Office
 <br/>
 LOGIN: any name, any email, valid US zipcode
 ![Nature Office](https://github.com/edignot/nature-office/blob/master/natureofficemockup.jpg)
+
+Vacation Rentals Around Denver
+<br/>
+[CODE](https://github.com/edignot/VRAD)
+<br/>
+![Vacation Rentals Around Denver](https://github.com/edignot/VRAD/raw/master/vrad.jpg)
+
+What's New
+<br/>
+[CODE](https://github.com/edignot/WhatsNew)
+<br/>
+![What's New](https://github.com/edignot/WhatsNew/raw/master/whatsnew.jpg)
+
+What's Cookin'?
+<br/>
+[CODE](https://github.com/edignot/whats-cookin)
+<br/>
+![What's Cookin'?](https://github.com/edignot/whats-cookin/raw/master/whatscookin.jpg)
+
+Check Yo Self
+<br/>
+[CODE](https://github.com/edignot/check-yo-self)
+<br/>
+[DEPLOYED](https://checkyoselftodo.netlify.app/) 
+<br/>
+![Check Yo Self](https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg)
 
 Photography Portfolio
 <br/>
