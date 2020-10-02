@@ -1,4 +1,4 @@
-Hi, I'm Edita. I'm a Software Engineer · Frontend Engineer · looking for work opportunities
+Hi, I'm Edita. I'm a Software Engineer · Frontend Engineer · 
 <br/>
 I'm a recent [Turing software and design school](https://turing.io/) alumni  
 <br/>
