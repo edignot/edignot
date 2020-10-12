@@ -1,4 +1,4 @@
-Hi, I'm Edita.
+Hi, I'm Edita
 Software Engineer · Frontend Engineer 
 <br/>
 I'm a recent [Turing software and design school](https://turing.io/) alumni  
