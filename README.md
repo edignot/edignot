@@ -16,7 +16,7 @@ Email me edignot@gmail.com
 
 Street Art Walk 
 <br/>
-[CODE](https://github.com/StreetArtMap/streetArtMap)
+[CODE](https://github.com/edignot/streetArtMap)
 <br/>
 [DEPLOYED](https://streetartwalk.netlify.app/) 
 <br/>
