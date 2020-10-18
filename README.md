@@ -66,25 +66,25 @@ Nature Office
 [DEPLOYED](https://nature-office.herokuapp.com/) 
 <br/>
 LOGIN: any name, any email, valid US zipcode
-![Nature Office](https://github.com/edignot/nature-office/blob/master/natureofficemockup.jpg)
+<img src="https://github.com/edignot/nature-office/blob/master/natureofficemockup.jpg" alt="Nature Office" width="500" height="auto">
 
 Vacation Rentals Around Denver
 <br/>
 [CODE](https://github.com/edignot/VRAD)
 <br/>
-![Vacation Rentals Around Denver](https://github.com/edignot/VRAD/raw/master/vrad.jpg)
+<img src="https://github.com/edignot/VRAD/raw/master/vrad.jpg" alt="Vacation Rentals Around Denver" width="500" height="auto">
 
 What's New
 <br/>
 [CODE](https://github.com/edignot/WhatsNew)
 <br/>
-![What's New](https://github.com/edignot/WhatsNew/raw/master/whatsnew.jpg)
+<img src="https://github.com/edignot/WhatsNew/raw/master/whatsnew.jpg" alt="What's New" width="500" height="auto">
 
 What's Cookin'?
 <br/>
 [CODE](https://github.com/edignot/whats-cookin)
 <br/>
-![What's Cookin'?](https://github.com/edignot/whats-cookin/raw/master/whatscookin.jpg)
+<img src="https://github.com/edignot/whats-cookin/raw/master/whatscookin.jpg" alt="What's Cookin'?" width="500" height="auto">
 
 Check Yo Self
 <br/>
@@ -93,6 +93,7 @@ Check Yo Self
 [DEPLOYED](https://checkyoselftodo.netlify.app/) 
 <br/>
 ![Check Yo Self](https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg)
+<img src="https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg" alt="Check Yo Self" width="500" height="auto">
 
 Flash Cards
 <br/>
@@ -100,7 +101,7 @@ Flash Cards
 <br/>
 [DEPLOYED](https://beyonceflashcardsgame.netlify.app/) 
 <br/>
-![Flash Cards Beyounce](https://github.com/edignot/FlashCardsGame/raw/master/flashcardgame.jpg)
+<img src="https://github.com/edignot/FlashCardsGame/raw/master/flashcardgame.jpg" alt="Flash Cards Beyounce" width="500" height="auto">
 
 Photography Portfolio
 <br/>
@@ -108,4 +109,4 @@ Photography Portfolio
 <br/>
 [DEPLOYED](https://editaignotphotography.netlify.app/) 
 <br/>
-![Photography Portfolio](https://github.com/edignot/My-photography-portfolio-mod-0/blob/master/photo2.jpg)
+<img src="https://github.com/edignot/My-photography-portfolio-mod-0/blob/master/photo2.jpg" alt="Photography Portfolio" width="500" height="auto">
