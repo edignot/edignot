@@ -66,6 +66,7 @@ Nature Office
 [DEPLOYED](https://nature-office.herokuapp.com/) 
 <br/>
 LOGIN: any name, any email, valid US zipcode
+<br/>
 <img src="https://github.com/edignot/nature-office/blob/master/natureofficemockup.jpg" alt="Nature Office" width="500" height="auto">
 
 Vacation Rentals Around Denver
@@ -92,7 +93,6 @@ Check Yo Self
 <br/>
 [DEPLOYED](https://checkyoselftodo.netlify.app/) 
 <br/>
-![Check Yo Self](https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg)
 <img src="https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg" alt="Check Yo Self" width="500" height="auto">
 
 Flash Cards
