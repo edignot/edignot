@@ -22,7 +22,6 @@ Street Art Walk
 <br/>
 LOGIN: username: username, password: password
 <br/>
-![Street Art Walk](https://camo.githubusercontent.com/fe6359f68df6e598fb73e942443e736c40f2e4ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64733664786776786f2f696d6167652f75706c6f61642f76313630303231393332382f73747265657461727477616c6b325f70616a66377a2e6a7067)
 <img src="https://camo.githubusercontent.com/fe6359f68df6e598fb73e942443e736c40f2e4ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64733664786776786f2f696d6167652f75706c6f61642f76313630303231393332382f73747265657461727477616c6b325f70616a66377a2e6a7067" alt="Street Art Walk" width="500" height="auto">
 
 Portfolio
@@ -32,6 +31,7 @@ Portfolio
 [DEPLOYED](https://edignot.com) 
 <br/>
 ![Edita Ignot Portfolio](https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg)
+<img src="https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg" alt="Edita Ignot Portfolio" width="500" height="auto">
 
 National Parks Bucket List
 <br/>
@@ -42,6 +42,7 @@ National Parks Bucket List
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
 ![National Parks Bucket List](https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg)
+<img src="https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg" alt="National Parks Bucket List" width="500" height="auto">
 
 Overlook Hotel
 <br/>
@@ -54,6 +55,7 @@ USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020
 MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
 ![Overlook Hotel](https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg)
+<img src="https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg" alt="Overlook Hotel" width="500" height="auto">
 
 ---
 
