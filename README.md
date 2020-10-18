@@ -30,7 +30,6 @@ Portfolio
 <br/>
 [DEPLOYED](https://edignot.com) 
 <br/>
-![Edita Ignot Portfolio](https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg)
 <img src="https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg" alt="Edita Ignot Portfolio" width="500" height="auto">
 
 National Parks Bucket List
@@ -41,7 +40,6 @@ National Parks Bucket List
 <br/>
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
-![National Parks Bucket List](https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg)
 <img src="https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg" alt="National Parks Bucket List" width="500" height="auto">
 
 Overlook Hotel
@@ -54,7 +52,6 @@ USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020
 <br/>
 MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
-![Overlook Hotel](https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg)
 <img src="https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg" alt="Overlook Hotel" width="500" height="auto">
 
 ---
