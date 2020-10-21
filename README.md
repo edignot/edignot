@@ -20,9 +20,9 @@ Currently I'm working on [algorithms and data structures practice](https://githu
 
 Street Art Walk 
 <br/>
-[CODE](https://github.com/edignot/streetArtMap)
+[`CODE`](https://github.com/edignot/streetArtMap)
 <br/>
-[DEPLOYED](https://streetartwalk.netlify.app/) 
+[`DEPLOYED`](https://streetartwalk.netlify.app/) 
 <br/>
 LOGIN: username: username, password: password
 <br/>
@@ -61,7 +61,7 @@ MANAGER LOGIN: username: manager, password: overlook2020
 ---
 
 #### OTHER PROJECTS 
-[Turing software and design school](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time.
+[`Turing software and design school`](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time.
 
 Nature Office
 <br/>
