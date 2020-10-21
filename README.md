@@ -30,17 +30,17 @@ LOGIN: username: username, password: password
 
 Portfolio
 <br/>
-[CODE](https://github.com/edignot/edignotportfolio)
+[`CODE`](https://github.com/edignot/edignotportfolio)
 <br/>
-[DEPLOYED](https://edignot.com) 
+[`DEPLOYED`](https://edignot.com) 
 <br/>
 <img src="https://github.com/edignot/edignotportfolio/blob/master/portfoliomockup.jpg" alt="Edita Ignot Portfolio" width="500" height="auto">
 
 National Parks Bucket List
 <br/>
-[CODE](https://github.com/edignot/national-parks-bucket-list)
+[`CODE`](https://github.com/edignot/national-parks-bucket-list)
 <br/>
-[DEPLOYED](https://nationalparksbucketlist.netlify.app/) 
+[`DEPLOYED`](https://nationalparksbucketlist.netlify.app/) 
 <br/>
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
@@ -48,9 +48,9 @@ LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 
 Overlook Hotel
 <br/>
-[CODE](https://github.com/edignot/HotelManagementApp)
+[`CODE`](https://github.com/edignot/HotelManagementApp)
 <br/>
-[DEPLOYED](https://edignot.github.io/HotelManagementApp/) 
+[`DEPLOYED`](https://edignot.github.io/HotelManagementApp/) 
 <br/>
 USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020 
 <br/>
@@ -65,9 +65,9 @@ MANAGER LOGIN: username: manager, password: overlook2020
 
 Nature Office
 <br/>
-[CODE](https://github.com/edignot/nature-office)
+[`CODE`](https://github.com/edignot/nature-office)
 <br/>
-[DEPLOYED](https://nature-office.herokuapp.com/) 
+[`DEPLOYED`](https://nature-office.herokuapp.com/) 
 <br/>
 LOGIN: any name, any email, valid US zipcode
 <br/>
@@ -75,42 +75,42 @@ LOGIN: any name, any email, valid US zipcode
 
 Vacation Rentals Around Denver
 <br/>
-[CODE](https://github.com/edignot/VRAD)
+[`CODE`](https://github.com/edignot/VRAD)
 <br/>
 <img src="https://github.com/edignot/VRAD/raw/master/vrad.jpg" alt="Vacation Rentals Around Denver" width="500" height="auto">
 
 What's New
 <br/>
-[CODE](https://github.com/edignot/WhatsNew)
+[`CODE`](https://github.com/edignot/WhatsNew)
 <br/>
 <img src="https://github.com/edignot/WhatsNew/raw/master/whatsnew.jpg" alt="What's New" width="500" height="auto">
 
 What's Cookin'?
 <br/>
-[CODE](https://github.com/edignot/whats-cookin)
+[`CODE`](https://github.com/edignot/whats-cookin)
 <br/>
 <img src="https://github.com/edignot/whats-cookin/raw/master/whatscookin.jpg" alt="What's Cookin'?" width="500" height="auto">
 
 Check Yo Self
 <br/>
-[CODE](https://github.com/edignot/check-yo-self)
+[`CODE`](https://github.com/edignot/check-yo-self)
 <br/>
-[DEPLOYED](https://checkyoselftodo.netlify.app/) 
+[`DEPLOYED`](https://checkyoselftodo.netlify.app/) 
 <br/>
 <img src="https://github.com/edignot/check-yo-self/raw/master/checkyoself.jpg" alt="Check Yo Self" width="500" height="auto">
 
 Flash Cards
 <br/>
-[CODE](https://github.com/edignot/FlashCardsGame)
+[`CODE`](https://github.com/edignot/FlashCardsGame)
 <br/>
-[DEPLOYED](https://beyonceflashcardsgame.netlify.app/) 
+[`DEPLOYED`](https://beyonceflashcardsgame.netlify.app/) 
 <br/>
 <img src="https://github.com/edignot/FlashCardsGame/raw/master/flashcardgame.jpg" alt="Flash Cards Beyounce" width="500" height="auto">
 
 Photography Portfolio
 <br/>
-[CODE](https://github.com/edignot/My-photography-portfolio-mod-0)
+[`CODE`](https://github.com/edignot/My-photography-portfolio-mod-0)
 <br/>
-[DEPLOYED](https://editaignotphotography.netlify.app/) 
+[`DEPLOYED`](https://editaignotphotography.netlify.app/) 
 <br/>
 <img src="https://github.com/edignot/My-photography-portfolio-mod-0/blob/master/photo2.jpg" alt="Photography Portfolio" width="500" height="auto">
