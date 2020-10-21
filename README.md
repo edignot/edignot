@@ -13,6 +13,7 @@ Email me edignot@gmail.com
 Currently I'm working on algorithms and data structures practice https://github.com/edignot/algorithm-data-structure-practice
 <br/>
 <br/>
+
 ---
 #### PORTFOLIO PROJECTS
 
