@@ -21,6 +21,14 @@ LOGIN: username: username, password: password
 <br/>
 <img src="https://camo.githubusercontent.com/fe6359f68df6e598fb73e942443e736c40f2e4ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64733664786776786f2f696d6167652f75706c6f61642f76313630303231393332382f73747265657461727477616c6b325f70616a66377a2e6a7067" alt="Street Art Walk" width="500" height="auto">
 
+Restaurants Search Engine
+<br/>
+[`CODE`](https://github.com/edignot/Restaurants)
+<br/>
+[`DEPLOYED`](https://restaurantssearchengine.netlify.app/) 
+<br/>
+<img src="https://github.com/edignot/Restaurants/raw/master/restaurantsmockup.jpg" alt="Restaurants Search Engine" width="500" height="auto">
+
 Portfolio
 <br/>
 [`CODE`](https://github.com/edignot/edignotportfolio)
@@ -38,15 +46,6 @@ National Parks Bucket List
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
 <img src="https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg" alt="National Parks Bucket List" width="500" height="auto">
-
-Restaurants Search Engine
-<br/>
-[`CODE`](https://github.com/edignot/Restaurants)
-<br/>
-[`DEPLOYED`](https://restaurantssearchengine.netlify.app/) 
-<br/>
-<img src="https://github.com/edignot/Restaurants/raw/master/restaurantsmockup.jpg" alt="Restaurants Search Engine" width="500" height="auto">
-
 ---
 
 #### OTHER PROJECTS 
