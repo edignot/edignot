@@ -39,6 +39,19 @@ LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
 <img src="https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg" alt="National Parks Bucket List" width="500" height="auto">
 
+Restaurants Search Engine
+<br/>
+[`CODE`](https://github.com/edignot/Restaurants)
+<br/>
+[`DEPLOYED`](https://restaurantssearchengine.netlify.app/) 
+<br/>
+<img src="https://github.com/edignot/Restaurants/raw/master/restaurantsmockup.jpg" alt="Restaurants Search Engine" width="500" height="auto">
+
+---
+
+#### OTHER PROJECTS 
+[`Turing software and design school`](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time.
+
 Overlook Hotel
 <br/>
 [`CODE`](https://github.com/edignot/HotelManagementApp)
@@ -50,11 +63,6 @@ USER LOGIN: username: customer[1 - 50] (e.g. customer17), password: overlook2020
 MANAGER LOGIN: username: manager, password: overlook2020
 <br/>
 <img src="https://github.com/edignot/HotelManagementApp/blob/master/readme-img/overlookmockup1.jpg" alt="Overlook Hotel" width="500" height="auto">
-
----
-
-#### OTHER PROJECTS 
-[`Turing software and design school`](https://turing.io/) was a 7+ month immerse project based learning coding program, where I've spent 1500+hrs learning different technologies, working on solo, paired and team projects. Each project was built implementing technologies I was learning at that time.
 
 Nature Office
 <br/>
