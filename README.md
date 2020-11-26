@@ -7,10 +7,8 @@ I'm a recent [`Turing software and design school`](https://turing.io/) alumni. L
 <br/>
 #### My portfolio [`edignot.com`](https://edignot.com)   |   Find me on LinkedIn [`edignot`](https://www.linkedin.com/in/edignot/)   |   Email me `edignot@gmail.com`
 <br/>
-<br/>
 
 #### PORTFOLIO PROJECTS
-
 Street Art Walk 
 <br/>
 [`CODE`](https://github.com/edignot/streetArtMap)
