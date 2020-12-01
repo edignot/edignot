@@ -29,7 +29,7 @@ Movie Search Engine
 
 Restaurants Search Engine
 <br/>
-[`CODE`](https://github.com/edignot/movie-ui)
+[`CODE`](https://github.com/edignot/Restaurants)
 <br/>
 [`DEPLOYED`](https://restaurantssearchengine.netlify.app/) 
 <br/>
