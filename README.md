@@ -2,7 +2,7 @@ Hi, I'm Edita
 Software Engineer · Frontend Engineer 
 <br/>
 <br/>
-I'm a recent [`Turing software and design school`](https://turing.io/) alumni. Looking for a full time position. 
+I'm a [`Turing software and design school`](https://turing.io/) alumni. Looking for a full time position. 
 <br/>
 <br/>
 #### My portfolio [`edignot.com`](https://edignot.com)   |   Find me on LinkedIn [`edignot`](https://www.linkedin.com/in/edignot/)   |   Email me `edignot@gmail.com`
