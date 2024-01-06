@@ -9,14 +9,6 @@ I'm a [`Turing software and design school`](https://turing.io/) alumni. Looking 
 <br/>
 
 #### PORTFOLIO PROJECTS
-Movie Search Engine
-<br/>
-[`CODE`](https://github.com/edignot/Restaurants)
-<br/>
-[`DEPLOYED`](https://mmoovviieess.netlify.app/) 
-<br/>
-<img src="https://github.com/edignot/movie-ui/raw/master/moviesmockup.jpg" alt="Movie Search Engine" width="500" height="auto">
-
 Restaurants Search Engine
 <br/>
 [`CODE`](https://github.com/edignot/Restaurants)
