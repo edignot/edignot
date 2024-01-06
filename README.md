@@ -9,16 +9,6 @@ I'm a [`Turing software and design school`](https://turing.io/) alumni. Looking 
 <br/>
 
 #### PORTFOLIO PROJECTS
-Street Art Walk 
-<br/>
-[`CODE`](https://github.com/edignot/streetArtMap)
-<br/>
-[`DEPLOYED`](https://streetartwalk.netlify.app/) 
-<br/>
-LOGIN: username: username, password: password
-<br/>
-<img src="https://camo.githubusercontent.com/fe6359f68df6e598fb73e942443e736c40f2e4ca/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f64733664786776786f2f696d6167652f75706c6f61642f76313630303231393332382f73747265657461727477616c6b325f70616a66377a2e6a7067" alt="Street Art Walk" width="500" height="auto">
-
 Movie Search Engine
 <br/>
 [`CODE`](https://github.com/edignot/Restaurants)
