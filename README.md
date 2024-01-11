@@ -27,11 +27,12 @@ National Parks Bucket List
 <br/>
 [`CODE`](https://github.com/edignot/national-parks-bucket-list)
 <br/>
-[`DEPLOYED`](https://nationalparksbucketlist.netlify.app/) 
+[`DEPLOYED`](https://nationalparksbucketlist.netlify.app/)
 <br/>
 LOGIN: username: <any>, email: <any>, state code: <any valid US state code>
 <br/>
 <img src="https://github.com/edignot/national-parks-bucket-list/blob/master/gifs/npblmockup.jpg" alt="National Parks Bucket List" width="500" height="auto">
+
 ---
 
 #### OTHER PROJECTS 
